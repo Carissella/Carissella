@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Carissella
+-I am learning full stack web development and currently focusing on backend development.
 - 👀 I’m interested in baking cupcakes and astrology.
-- 🌱 I’m currently making enjoyable applications that pique my interest.
+- 🌱 I have about 20 plants and enjoy being a plant mom.
 - 💞️ I’m looking to collaborate on anything that would make the world a better place!
 - 📫 How to reach me: 
+- Email: carissebarr.swe@gmail.com
 - LinkedIn : @CarisseBarr
 - Twitter: @Carissella
 
